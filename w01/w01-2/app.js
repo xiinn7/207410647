@@ -1,4 +1,4 @@
- // var, let, const
+// var, let, const
 
  var name = "RongXin Chen";
  console.log(name);
